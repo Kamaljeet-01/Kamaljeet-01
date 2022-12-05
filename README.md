@@ -3,7 +3,7 @@
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning JAVA Programming language with DSA and Web Designing.
 - 👨‍💻 Bechelor of Technology in computer Science and Engineering.
-- 📫 Bhiwani, Haryana(INDIA) 
+- 📫 Bhiwani, Haryana (INDIA) 
 #  Thankyou for visiting my profile.😊
 
 <!---

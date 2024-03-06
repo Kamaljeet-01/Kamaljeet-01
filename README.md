@@ -1,7 +1,7 @@
 # 👋 Hi There,
 - ✌️I’m  Kamaljeet Yadav
-- 👀 I’m interested in Technology.
-- 🌱 I’m currently learning JAVA Programming language with DSA and Web Designing.
+- 👀 interested in Technology.
+- 🌱 currently learning JAVA Programming language with DSA and Web Designing.
 - 👨‍💻 Bechelor of Technology in computer Science and Engineering.
 - 📫 Bhiwani, Haryana (INDIA) 
 #  Thankyou for visiting my profile.😊

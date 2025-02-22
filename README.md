@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Kamaljeet Yadav!<br>I'm a passionate BTech CSE student passionate about Decentralized systems and software development. <br>My skills include C++,Golang, AWS,Docker, GIT, SQL, HTML, CSS, and JavaScript. I enjoy working on projects that solve real-world problems and enhance user experiences.<br> Check out my projects, including a sorting visualizer and an elevator system using process scheduling in C++, to see my work in action.<br><br>Feel free to connect with me for collaboration or peer tutoring!<br><br>
-
+# Those who can't remember the past are condemned to repeat it. --Dynamic Programming🎗️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamaljeet-yadav) 

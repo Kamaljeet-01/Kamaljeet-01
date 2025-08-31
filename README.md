@@ -1,5 +1,6 @@
 # 💫 CRAZY ENOUGH TO CODE THE IMPOSSIBLE.
-Hi, I'm Kamaljeet Yadav, and these are my profiles.😂
+
+Hi, I’m Kamaljeet Yadav – a Computer Science student who spends more time convincing his code to run than sleeping.<br> Still figuring out whether I debug the code or the code debugs me!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamaljeet-yadav) 

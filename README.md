@@ -1,6 +1,5 @@
 # 💫 CRAZY ENOUGH TO CODE THE IMPOSSIBLE.
-👋 Hi, I'm Kamaljeet Yadav!<br>I'm a CSE student passionate about Decentralized systems and software development. <br>My skills include C++,Golang, AWS,Docker, GIT, SQL, HTML, CSS, and JavaScript. I enjoy working on projects that solve real-world problems and enhance user experiences.<br> Check out my projects, including Taskify, Devops Implementation for go-web-app, Sorting Visualizer, to see my work in action.<br><br>Feel free to connect with me for collaboration or peer tutoring!<br><br>
-# Those who can't remember the past are condemned to repeat it. --Dynamic Programming🎗️
+Hi, I'm Kamaljeet Yadav, and these are my profiles.😂
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamaljeet-yadav) 
